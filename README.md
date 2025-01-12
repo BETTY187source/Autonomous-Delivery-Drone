@@ -1,4 +1,4 @@
-          # Autonomous Delivery Drone
+           # Autonomous Delivery Drone
 
 An autonomous drone system designed to deliver packages safely while avoiding obstacles. This system uses sensors to detect surroundings and calculates optimal flight paths using pathfinding algorithms, ensuring accurate and safe deliveries.
 
